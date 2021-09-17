@@ -35,7 +35,7 @@ int main(void)
 
 	conexion = crear_conexion(ip, puerto);
 
-	t_paquete* paquete = crear_paquete();
+	t_paquete* paquete = crear_super_paquete();
 	leer_consola(logger, paquete);
 
 
