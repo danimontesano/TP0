@@ -1,0 +1,126 @@
+[INFO] 12:56:52:185 Servidor/(8751:8751): Servidor listo para recibir al cliente
+[INFO] 12:57:37:077 Servidor/(8751:8751): Se conecto un cliente!
+[INFO] 12:57:37:077 Servidor/(8751:8751): Me llego el mensaje maxi
+[ERROR] 12:57:37:077 Servidor/(8751:8751): el cliente se desconecto. Terminando servidor
+[INFO] 13:42:17:259 Servidor/(19069:19069): Servidor listo para recibir al cliente
+[INFO] 13:42:34:745 Servidor/(19069:19069): Se conecto un cliente!
+[INFO] 13:42:34:746 Servidor/(19069:19069): Me llego el mensaje maxi
+[ERROR] 13:42:56:178 Servidor/(19069:19069): el cliente se desconecto. Terminando servidor
+[INFO] 13:56:31:663 Servidor/(21702:21702): Servidor listo para recibir al cliente
+[INFO] 13:57:46:956 Servidor/(21702:21702): Se conecto un cliente!
+[INFO] 13:57:46:957 Servidor/(21702:21702): Me llego el mensaje maxi
+[INFO] 13:57:46:957 Servidor/(21702:21702): Me llegaron los siguientes valores:
+
+[ERROR] 13:57:46:958 Servidor/(21702:21702): el cliente se desconecto. Terminando servidor
+[INFO] 13:58:32:415 Servidor/(22085:22085): Servidor listo para recibir al cliente
+[INFO] 13:59:07:084 Servidor/(22085:22085): Se conecto un cliente!
+[INFO] 13:59:07:085 Servidor/(22085:22085): Me llego el mensaje maxi
+[INFO] 13:59:07:085 Servidor/(22085:22085): Me llegaron los siguientes valores:
+
+[ERROR] 13:59:07:086 Servidor/(22085:22085): el cliente se desconecto. Terminando servidor
+[INFO] 14:18:08:664 Servidor/(25231:25231): Servidor listo para recibir al cliente
+[INFO] 14:18:27:787 Servidor/(25231:25231): Se conecto un cliente!
+[INFO] 14:18:27:788 Servidor/(25231:25231): Me llego el mensaje maxi
+[INFO] 14:18:27:788 Servidor/(25231:25231): Me llegaron los siguientes valores:
+
+[ERROR] 14:18:27:788 Servidor/(25231:25231): el cliente se desconecto. Terminando servidor
+[INFO] 14:19:20:631 Servidor/(25437:25437): Servidor listo para recibir al cliente
+[INFO] 14:19:33:890 Servidor/(25437:25437): Se conecto un cliente!
+[INFO] 14:19:33:892 Servidor/(25437:25437): Me llego el mensaje maxi
+[INFO] 14:19:33:892 Servidor/(25437:25437): Me llegaron los siguientes valores:
+
+[ERROR] 14:19:33:892 Servidor/(25437:25437): el cliente se desconecto. Terminando servidor
+[INFO] 14:20:07:596 Servidor/(25590:25590): Servidor listo para recibir al cliente
+[INFO] 14:23:24:640 Servidor/(25590:25590): Se conecto un cliente!
+[INFO] 14:23:31:156 Servidor/(25590:25590): Me llego el mensaje maxi
+[INFO] 14:23:44:070 Servidor/(25590:25590): Me llegaron los siguientes valores:
+
+[ERROR] 14:24:27:096 Servidor/(25590:25590): el cliente se desconecto. Terminando servidor
+[INFO] 14:28:00:607 Servidor/(26979:26979): Servidor listo para recibir al cliente
+[INFO] 14:28:46:859 Servidor/(27123:27123): Servidor listo para recibir al cliente
+[INFO] 14:29:03:869 Servidor/(27123:27123): Se conecto un cliente!
+[INFO] 14:29:03:870 Servidor/(27123:27123): Me llego el mensaje maxi
+[INFO] 14:29:03:870 Servidor/(27123:27123): Me llegaron los siguientes valores:
+
+[ERROR] 14:29:03:870 Servidor/(27123:27123): el cliente se desconecto. Terminando servidor
+[INFO] 14:29:24:083 Servidor/(27241:27241): Servidor listo para recibir al cliente
+[INFO] 14:29:45:861 Servidor/(27241:27241): Se conecto un cliente!
+[INFO] 14:29:45:863 Servidor/(27241:27241): Me llego el mensaje maxi
+[INFO] 14:29:45:863 Servidor/(27241:27241): Me llegaron los siguientes valores:
+
+[ERROR] 14:29:45:864 Servidor/(27241:27241): el cliente se desconecto. Terminando servidor
+[INFO] 22:41:55:023 Servidor/(26412:26412): Servidor listo para recibir al cliente
+[INFO] 22:42:47:335 Servidor/(26412:26412): Se conecto un cliente!
+[INFO] 22:42:47:336 Servidor/(26412:26412): Me llego el mensaje maxi
+[INFO] 22:42:47:336 Servidor/(26412:26412): Me llegaron los siguientes valores:
+
+[INFO] 22:42:47:336 Servidor/(26412:26412): Hola
+
+[ERROR] 22:42:47:336 Servidor/(26412:26412): el cliente se desconecto. Terminando servidor
+[INFO] 22:48:10:953 Servidor/(27443:27443): Servidor listo para recibir al cliente
+[INFO] 22:48:23:563 Servidor/(27494:27494): Servidor listo para recibir al cliente
+[INFO] 22:48:36:530 Servidor/(27494:27494): Se conecto un cliente!
+[INFO] 22:49:10:091 Servidor/(27494:27494): Me llego el mensaje maxi
+[INFO] 22:49:10:092 Servidor/(27494:27494): Me llegaron los siguientes valores:
+
+[INFO] 22:49:10:092 Servidor/(27494:27494): hola
+
+[INFO] 22:49:10:092 Servidor/(27494:27494): chau
+
+[INFO] 22:49:10:092 Servidor/(27494:27494): xd
+
+[INFO] 22:49:51:137 Servidor/(27494:27494): Me llego el mensaje 
+[INFO] 22:49:51:138 Servidor/(27494:27494): Me llegaron los siguientes valores:
+
+[INFO] 22:49:51:138 Servidor/(27494:27494): asdsa
+
+[INFO] 22:49:51:138 Servidor/(27494:27494): dasfgfds
+
+[INFO] 22:49:51:138 Servidor/(27494:27494): reher
+
+[INFO] 22:50:21:071 Servidor/(27494:27494): Me llego el mensaje 
+[INFO] 22:50:21:071 Servidor/(27494:27494): Me llegaron los siguientes valores:
+
+[INFO] 22:50:21:071 Servidor/(27494:27494): mensaje
+
+[INFO] 22:50:21:071 Servidor/(27494:27494): mensaje2
+
+[INFO] 22:50:21:071 Servidor/(27494:27494): mensaje3
+
+[INFO] 20:14:09:214 Servidor/(3111:3111): Servidor listo para recibir al cliente
+[INFO] 20:14:19:337 Servidor/(3111:3111): Se conecto un cliente!
+[INFO] 20:14:42:913 Servidor/(3111:3111): Me llego el mensaje maxi
+[INFO] 20:14:42:914 Servidor/(3111:3111): Me llegaron los siguientes valores:
+
+[INFO] 20:14:42:914 Servidor/(3111:3111): hola
+
+[INFO] 20:14:42:914 Servidor/(3111:3111): chau
+
+[INFO] 20:14:42:914 Servidor/(3111:3111): asdasfa
+
+[INFO] 20:14:42:914 Servidor/(3111:3111): fff
+
+[INFO] 20:15:10:886 Servidor/(3111:3111): Me llego el mensaje maxi
+[INFO] 20:15:10:886 Servidor/(3111:3111): Me llegaron los siguientes valores:
+
+[INFO] 20:15:10:886 Servidor/(3111:3111): hola
+
+[INFO] 20:15:10:886 Servidor/(3111:3111): asdas
+
+[INFO] 20:15:10:886 Servidor/(3111:3111): gsdgsd
+
+[INFO] 20:15:10:886 Servidor/(3111:3111): qwe
+
+[INFO] 20:16:16:445 Servidor/(3438:3438): Servidor listo para recibir al cliente
+[INFO] 20:17:18:329 Servidor/(3593:3593): Servidor listo para recibir al cliente
+[INFO] 20:17:34:634 Servidor/(3593:3593): Se conecto un cliente!
+[INFO] 20:17:44:467 Servidor/(3593:3593): Me llego el mensaje maxi
+[INFO] 20:17:44:467 Servidor/(3593:3593): Me llegaron los siguientes valores:
+
+[INFO] 20:17:44:467 Servidor/(3593:3593): hola
+
+[INFO] 20:17:44:467 Servidor/(3593:3593): chau
+
+[INFO] 20:17:44:468 Servidor/(3593:3593): asdasd
+
+[ERROR] 20:17:44:468 Servidor/(3593:3593): el cliente se desconecto. Terminando servidor

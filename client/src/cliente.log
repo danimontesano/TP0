@@ -1,0 +1,144 @@
+[INFO] 11:05:25:874 cliente/(13477:13477): Hola! Soy un log
+[INFO] 11:13:48:108 cliente/(15657:15657): Hola! Soy un log
+[INFO] 11:15:36:127 cliente/(16118:16118): Hola! Soy un log
+[INFO] 11:17:00:101 cliente/(16515:16515): Hola! Soy un log
+[INFO] 11:17:00:106 cliente/(16515:16515): maxi
+[INFO] 11:20:52:440 cliente/(17520:17520): Hola! Soy un log
+[INFO] 11:20:52:444 cliente/(17520:17520): maxi
+[INFO] 11:21:00:182 cliente/(17520:17520): Hola mundo!
+[INFO] 11:21:43:263 cliente/(17758:17758): Hola! Soy un log
+[INFO] 11:21:43:270 cliente/(17758:17758): maxi
+[INFO] 11:21:49:717 cliente/(17758:17758): Hola Mundo!
+[INFO] 11:29:01:392 cliente/(19534:19534): Hola! Soy un log
+[INFO] 11:29:01:395 cliente/(19534:19534): maxi
+[INFO] 11:29:17:840 cliente/(19534:19534): Hoa
+[INFO] 11:30:16:224 cliente/(19866:19866): Hola! Soy un log
+[INFO] 11:30:16:230 cliente/(19866:19866): maxi
+[INFO] 11:30:20:101 cliente/(19866:19866): aaaaaaaaa
+[INFO] 11:31:11:754 cliente/(20124:20124): Hola! Soy un log
+[INFO] 11:31:11:755 cliente/(20124:20124): maxi
+[INFO] 11:31:14:194 cliente/(20124:20124): dsfg
+[INFO] 11:31:37:736 cliente/(20272:20272): Hola! Soy un log
+[INFO] 11:31:37:745 cliente/(20272:20272): maxi
+[INFO] 11:36:09:083 cliente/(21391:21391): Hola! Soy un log
+[INFO] 11:36:09:087 cliente/(21391:21391): maxi
+[INFO] 11:37:13:743 cliente/(21716:21716): Hola! Soy un log
+[INFO] 11:37:13:749 cliente/(21716:21716): maxi
+[INFO] 11:39:42:447 cliente/(22332:22332): Hola! Soy un log
+[INFO] 11:39:42:461 cliente/(22332:22332): maxi
+[INFO] 11:45:40:187 cliente/(23825:23825): Hola! Soy un log
+[INFO] 11:45:40:199 cliente/(23825:23825): maxi
+[INFO] 11:46:26:871 cliente/(24039:24039): Hola! Soy un log
+[INFO] 11:46:26:878 cliente/(24039:24039): maxi
+[INFO] 11:46:30:222 cliente/(24039:24039): Se ingresó por consola 'asd'
+[INFO] 11:46:31:616 cliente/(24039:24039): Se ingresó por consola 'sad'
+[INFO] 11:48:07:091 cliente/(24475:24475): Hola! Soy un log
+[INFO] 11:48:07:094 cliente/(24475:24475): maxi
+[INFO] 11:48:22:935 cliente/(24573:24573): Hola! Soy un log
+[INFO] 11:48:22:938 cliente/(24573:24573): maxi
+[INFO] 12:54:49:509 cliente/(8174:8174): Hola! Soy un log
+[INFO] 12:54:49:522 cliente/(8174:8174): maxi
+[INFO] 12:54:49:522 cliente/(8174:8174): 127.0.0.1
+[INFO] 12:54:49:523 cliente/(8174:8174): 4444
+[INFO] 12:56:24:215 cliente/(8632:8632): Hola! Soy un log
+[INFO] 12:56:24:227 cliente/(8632:8632): maxi
+[INFO] 12:56:24:228 cliente/(8632:8632): 127.0.0.1
+[INFO] 12:56:24:228 cliente/(8632:8632): 4444
+[INFO] 12:57:07:385 cliente/(8820:8820): Hola! Soy un log
+[INFO] 12:57:07:398 cliente/(8820:8820): maxi
+[INFO] 12:57:07:398 cliente/(8820:8820): 127.0.0.1
+[INFO] 12:57:07:399 cliente/(8820:8820): 4444
+[INFO] 13:42:34:740 cliente/(19143:19143): Hola! Soy un log
+[INFO] 13:42:34:741 cliente/(19143:19143): maxi
+[INFO] 13:42:34:742 cliente/(19143:19143): 127.0.0.1
+[INFO] 13:42:34:745 cliente/(19143:19143): 4444
+[INFO] 13:42:49:562 cliente/(19143:19143): Se ingresó por consola 'hola'
+[INFO] 13:57:18:836 cliente/(21886:21886): Hola! Soy un log
+[INFO] 13:57:18:848 cliente/(21886:21886): maxi
+[INFO] 13:57:18:851 cliente/(21886:21886): 127.0.0.1
+[INFO] 13:57:18:852 cliente/(21886:21886): 4444
+[INFO] 13:57:34:656 cliente/(21886:21886): Se ingresó por consola 'Hola Mundo!'
+[INFO] 13:57:40:925 cliente/(21886:21886): Se ingresó por consola 'Como estas?'
+[INFO] 13:57:45:674 cliente/(21886:21886): Se ingresó por consola 'Chau'
+[INFO] 13:58:54:636 cliente/(22173:22173): Hola! Soy un log
+[INFO] 13:58:54:637 cliente/(22173:22173): maxi
+[INFO] 13:58:54:638 cliente/(22173:22173): 127.0.0.1
+[INFO] 13:58:54:638 cliente/(22173:22173): 4444
+[INFO] 13:59:02:345 cliente/(22173:22173): Se ingresó por consola 'Hola hola'
+[INFO] 13:59:05:930 cliente/(22173:22173): Se ingresó por consola 'Chau chau'
+[INFO] 14:18:19:860 cliente/(25275:25275): Hola! Soy un log
+[INFO] 14:18:19:866 cliente/(25275:25275): maxi
+[INFO] 14:18:19:866 cliente/(25275:25275): 127.0.0.1
+[INFO] 14:18:19:866 cliente/(25275:25275): 4444
+[INFO] 14:18:26:847 cliente/(25275:25275): Se ingresó por consola 'hola'
+[INFO] 14:19:28:669 cliente/(25481:25481): Hola! Soy un log
+[INFO] 14:19:28:674 cliente/(25481:25481): maxi
+[INFO] 14:19:28:674 cliente/(25481:25481): 127.0.0.1
+[INFO] 14:19:28:674 cliente/(25481:25481): 4444
+[INFO] 14:19:32:936 cliente/(25481:25481): Se ingresó por consola 'dfhdf'
+[INFO] 14:20:45:617 cliente/(25678:25678): Hola! Soy un log
+[INFO] 14:20:51:295 cliente/(25678:25678): maxi
+[INFO] 14:20:51:644 cliente/(25678:25678): 127.0.0.1
+[INFO] 14:20:51:863 cliente/(25678:25678): 4444
+[INFO] 14:21:22:967 cliente/(25678:25678): Se ingresó por consola 'hola'
+[INFO] 14:28:16:768 cliente/(27039:27039): Hola! Soy un log
+[INFO] 14:28:16:768 cliente/(27039:27039): maxi
+[INFO] 14:28:16:769 cliente/(27039:27039): 127.0.0.1
+[INFO] 14:28:16:769 cliente/(27039:27039): 4444
+[INFO] 14:28:19:407 cliente/(27039:27039): Se ingresó por consola 'hola'
+[INFO] 14:28:58:762 cliente/(27165:27165): Hola! Soy un log
+[INFO] 14:28:58:768 cliente/(27165:27165): maxi
+[INFO] 14:28:58:768 cliente/(27165:27165): 127.0.0.1
+[INFO] 14:28:58:768 cliente/(27165:27165): 4444
+[INFO] 14:29:02:676 cliente/(27165:27165): Se ingresó por consola 'hola'
+[INFO] 14:29:36:088 cliente/(27281:27281): Hola! Soy un log
+[INFO] 14:29:36:089 cliente/(27281:27281): maxi
+[INFO] 14:29:36:089 cliente/(27281:27281): 127.0.0.1
+[INFO] 14:29:36:090 cliente/(27281:27281): 4444
+[INFO] 14:29:39:984 cliente/(27281:27281): Se ingresó por consola 'Hola'
+[INFO] 14:29:41:244 cliente/(27281:27281): Se ingresó por consola 'Chau'
+[INFO] 14:29:45:262 cliente/(27281:27281): Se ingresó por consola 'Maxi puto ahre xd'
+[INFO] 22:42:11:167 cliente/(26469:26469): Hola! Soy un log
+[INFO] 22:42:11:177 cliente/(26469:26469): maxi
+[INFO] 22:42:11:177 cliente/(26469:26469): 127.0.0.1
+[INFO] 22:42:11:178 cliente/(26469:26469): 4444
+[INFO] 22:42:30:274 cliente/(26469:26469): Se ingresó por consola 'Hola'
+[INFO] 22:48:36:529 cliente/(27555:27555): Hola! Soy un log
+[INFO] 22:48:36:530 cliente/(27555:27555): maxi
+[INFO] 22:48:36:530 cliente/(27555:27555): 127.0.0.1
+[INFO] 22:48:36:530 cliente/(27555:27555): 4444
+[INFO] 22:49:00:027 cliente/(27555:27555): Se ingresó por consola 'hola'
+[INFO] 22:49:02:361 cliente/(27555:27555): Se ingresó por consola 'chau'
+[INFO] 22:49:03:793 cliente/(27555:27555): Se ingresó por consola 'xd'
+[INFO] 22:49:39:208 cliente/(27555:27555): Se ingresó por consola 'asdsa'
+[INFO] 22:49:41:250 cliente/(27555:27555): Se ingresó por consola 'dasfgfds'
+[INFO] 22:49:42:863 cliente/(27555:27555): Se ingresó por consola 'reher'
+[INFO] 22:50:05:563 cliente/(27555:27555): Se ingresó por consola 'mensaje'
+[INFO] 22:50:07:438 cliente/(27555:27555): Se ingresó por consola 'mensaje2'
+[INFO] 22:50:10:451 cliente/(27555:27555): Se ingresó por consola 'mensaje3'
+[INFO] 20:14:19:335 cliente/(3139:3139): Hola! Soy un log
+[INFO] 20:14:19:337 cliente/(3139:3139): maxi
+[INFO] 20:14:19:337 cliente/(3139:3139): 127.0.0.1
+[INFO] 20:14:19:337 cliente/(3139:3139): 4444
+[INFO] 20:14:36:522 cliente/(3139:3139): Se ingresó por consola 'hola'
+[INFO] 20:14:38:036 cliente/(3139:3139): Se ingresó por consola 'chau'
+[INFO] 20:14:40:593 cliente/(3139:3139): Se ingresó por consola 'asdasfa'
+[INFO] 20:14:42:060 cliente/(3139:3139): Se ingresó por consola 'fff'
+[INFO] 20:15:04:889 cliente/(3139:3139): Se ingresó por consola 'hola'
+[INFO] 20:15:06:473 cliente/(3139:3139): Se ingresó por consola 'asdas'
+[INFO] 20:15:07:746 cliente/(3139:3139): Se ingresó por consola 'gsdgsd'
+[INFO] 20:15:09:760 cliente/(3139:3139): Se ingresó por consola 'qwe'
+[INFO] 20:16:20:177 cliente/(3454:3454): Hola! Soy un log
+[INFO] 20:16:20:180 cliente/(3454:3454): maxi
+[INFO] 20:16:20:180 cliente/(3454:3454): 127.0.0.1
+[INFO] 20:16:20:180 cliente/(3454:3454): 4444
+[INFO] 20:16:24:722 cliente/(3454:3454): Se ingresó por consola 'hola'
+[INFO] 20:16:25:942 cliente/(3454:3454): Se ingresó por consola 'chau'
+[INFO] 20:16:26:675 cliente/(3454:3454): Se ingresó por consola 'xd'
+[INFO] 20:17:34:633 cliente/(3648:3648): Hola! Soy un log
+[INFO] 20:17:34:634 cliente/(3648:3648): maxi
+[INFO] 20:17:34:634 cliente/(3648:3648): 127.0.0.1
+[INFO] 20:17:34:634 cliente/(3648:3648): 4444
+[INFO] 20:17:41:950 cliente/(3648:3648): Se ingresó por consola 'hola'
+[INFO] 20:17:42:953 cliente/(3648:3648): Se ingresó por consola 'chau'
+[INFO] 20:17:44:122 cliente/(3648:3648): Se ingresó por consola 'asdasd'
