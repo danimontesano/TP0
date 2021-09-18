@@ -11,3 +11,24 @@ Es un ejercicio corto y sirve como base para empezar el TP cuatrimestral.
 Podés encontrar la consigna en el siguiente [link].
 
 [link]: https://faq.utnso.com.ar/tp0-enunciado
+
+## Comandos para ejecutar
+
+1- Iniciar server
+```
+cd /home/utnso/TP0/server/
+make
+cd /home/utnso/TP0/server/bin
+./server
+```
+
+2- Iniciar client
+```
+cd /home/utnso/TP0/client/
+make
+cd /home/utnso/TP0/client/bin
+./client
+```
+
+3- Disfrutar
+
