@@ -109,3 +109,48 @@
 [INFO] 10:37:45:796 Servidor/(11783:11783):  - Valor recibido 'Hola'
 [INFO] 10:37:45:796 Servidor/(11783:11783):  - Valor recibido 'Buenas Noches'
 [ERROR] 10:37:45:796 Servidor/(11783:11783): El cliente se desconecto. Terminando servidor
+[INFO] 11:56:54:724 Servidor/(18410:18410): Servidor listo para recibir al cliente
+[INFO] 11:56:56:968 Servidor/(18410:18410): Se conecto un cliente!
+[INFO] 11:56:56:968 Servidor/(18410:18410): Me llego el mensaje: 'Llave Dactilar Wuxi'
+[INFO] 11:57:00:826 Servidor/(18410:18410): Se listan los valores recibidos
+[INFO] 11:57:00:826 Servidor/(18410:18410):  - Valor recibido 'A'
+[INFO] 11:57:00:826 Servidor/(18410:18410):  - Valor recibido 'B'
+[INFO] 11:57:00:826 Servidor/(18410:18410):  - Valor recibido 'C'
+[INFO] 11:57:00:826 Servidor/(18410:18410):  - Valor recibido 'D'
+[INFO] 11:57:00:826 Servidor/(18410:18410):  - Valor recibido 'E'
+[ERROR] 11:57:00:827 Servidor/(18410:18410): El cliente se desconecto. Terminando servidor
+[INFO] 12:00:28:033 Servidor/(18861:18861): Servidor listo para recibir al cliente
+[INFO] 12:00:28:895 Servidor/(18861:18861): Se conecto un cliente!
+[INFO] 12:00:28:895 Servidor/(18861:18861): Me llego el mensaje: 'Llave Dactilar Wuxi'
+[INFO] 12:00:33:102 Servidor/(18861:18861): Se listan los valores recibidos
+[INFO] 12:00:33:103 Servidor/(18861:18861):  - Valor recibido 'A'
+[INFO] 12:00:33:103 Servidor/(18861:18861):  - Valor recibido 'B'
+[INFO] 12:00:33:103 Servidor/(18861:18861):  - Valor recibido 'C'
+[ERROR] 12:00:33:103 Servidor/(18861:18861): El cliente se desconecto. Terminando servidor
+[INFO] 12:01:01:819 Servidor/(19013:19013): Servidor listo para recibir al cliente
+[INFO] 12:02:54:778 Servidor/(19013:19013): Se conecto un cliente!
+[INFO] 12:02:54:802 Servidor/(19013:19013): Me llego el mensaje: 'Llave Dactilar Wuxi'
+[INFO] 12:02:59:982 Servidor/(19013:19013): Se listan los valores recibidos
+[INFO] 12:02:59:983 Servidor/(19013:19013):  - Valor recibido 'A'
+[INFO] 12:02:59:983 Servidor/(19013:19013):  - Valor recibido 'B'
+[INFO] 12:02:59:983 Servidor/(19013:19013):  - Valor recibido 'C'
+[INFO] 12:02:59:983 Servidor/(19013:19013):  - Valor recibido 'D'
+[ERROR] 12:02:59:987 Servidor/(19013:19013): El cliente se desconecto. Terminando servidor
+[INFO] 12:03:46:088 Servidor/(19226:19226): Servidor listo para recibir al cliente
+[INFO] 12:04:05:375 Servidor/(19226:19226): Se conecto un cliente!
+[INFO] 12:04:05:378 Servidor/(19226:19226): Me llego el mensaje: 'Llave Dactilar Wuxi'
+[INFO] 12:04:10:210 Servidor/(19226:19226): Se listan los valores recibidos
+[INFO] 12:04:10:210 Servidor/(19226:19226):  - Valor recibido 'asdafd'
+[INFO] 12:04:10:210 Servidor/(19226:19226):  - Valor recibido 'asd'
+[INFO] 12:04:10:210 Servidor/(19226:19226):  - Valor recibido 'asd'
+[INFO] 12:04:10:210 Servidor/(19226:19226):  - Valor recibido 'asdgbasf'
+[ERROR] 12:04:10:214 Servidor/(19226:19226): El cliente se desconecto. Terminando servidor
+[INFO] 12:04:54:412 Servidor/(19562:19562): Servidor listo para recibir al cliente
+[INFO] 12:04:54:960 Servidor/(19562:19562): Se conecto un cliente!
+[INFO] 12:04:54:960 Servidor/(19562:19562): Me llego el mensaje: 'Llave Dactilar Wuxi'
+[INFO] 12:04:58:992 Servidor/(19562:19562): Se listan los valores recibidos
+[INFO] 12:04:58:992 Servidor/(19562:19562):  - Valor recibido 'asdf'
+[INFO] 12:04:58:992 Servidor/(19562:19562):  - Valor recibido 'asdf'
+[INFO] 12:04:58:992 Servidor/(19562:19562):  - Valor recibido 'asdf'
+[INFO] 12:04:58:992 Servidor/(19562:19562):  - Valor recibido 'wert'
+[ERROR] 12:04:58:993 Servidor/(19562:19562): El cliente se desconecto. Terminando servidor

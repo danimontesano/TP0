@@ -124,3 +124,12 @@
 [INFO] 20:17:44:468 Servidor/(3593:3593): asdasd
 
 [ERROR] 20:17:44:468 Servidor/(3593:3593): el cliente se desconecto. Terminando servidor
+[INFO] 11:57:18:545 Servidor/(18458:18458): Servidor listo para recibir al cliente
+[INFO] 11:57:24:016 Servidor/(18458:18458): Se conecto un cliente!
+[INFO] 11:57:24:021 Servidor/(18458:18458): Me llego el mensaje: 'Llave Dactilar Wuxi'
+[INFO] 11:57:28:930 Servidor/(18458:18458): Se listan los valores recibidos
+[INFO] 11:57:28:932 Servidor/(18458:18458):  - Valor recibido 'a'
+[INFO] 11:57:28:933 Servidor/(18458:18458):  - Valor recibido 'a'
+[INFO] 11:57:28:933 Servidor/(18458:18458):  - Valor recibido 'a'
+[INFO] 11:57:28:933 Servidor/(18458:18458):  - Valor recibido 'fv'
+[ERROR] 11:57:28:935 Servidor/(18458:18458): El cliente se desconecto. Terminando servidor

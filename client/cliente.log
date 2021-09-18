@@ -242,3 +242,69 @@
 [INFO] 10:37:44:890 cliente/(11784:11784): Se ingresó por consola 'Buenas Noches'
 [INFO] 10:37:45:796 cliente/(11784:11784): Se enviaron los valores al servidor
 [INFO] 10:37:45:796 cliente/(11784:11784): Finalizando modulo
+[INFO] 11:56:56:967 cliente/(18411:18411): Hola! Soy un log
+[INFO] 11:56:56:967 cliente/(18411:18411): El valor de la clave es: Llave Dactilar Wuxi
+[INFO] 11:56:56:967 cliente/(18411:18411): El valor de la IP es: 127.0.0.1
+[INFO] 11:56:56:967 cliente/(18411:18411): El valor del Puerto es: 4444
+[INFO] 11:56:56:968 cliente/(18411:18411): Se envió la clave al servidor
+[INFO] 11:56:58:667 cliente/(18411:18411): Se ingresó por consola 'A'
+[INFO] 11:56:59:143 cliente/(18411:18411): Se ingresó por consola 'B'
+[INFO] 11:56:59:544 cliente/(18411:18411): Se ingresó por consola 'C'
+[INFO] 11:56:59:901 cliente/(18411:18411): Se ingresó por consola 'D'
+[INFO] 11:57:00:393 cliente/(18411:18411): Se ingresó por consola 'E'
+[INFO] 11:57:00:826 cliente/(18411:18411): Se enviaron los valores al servidor
+[INFO] 11:57:00:826 cliente/(18411:18411): Finalizando modulo
+[INFO] 11:57:24:015 cliente/(18466:18466): Hola! Soy un log
+[INFO] 11:57:24:015 cliente/(18466:18466): El valor de la clave es: Llave Dactilar Wuxi
+[INFO] 11:57:24:015 cliente/(18466:18466): El valor de la IP es: 127.0.0.1
+[INFO] 11:57:24:016 cliente/(18466:18466): El valor del Puerto es: 4444
+[INFO] 11:57:24:019 cliente/(18466:18466): Se envió la clave al servidor
+[INFO] 11:57:26:228 cliente/(18466:18466): Se ingresó por consola 'a'
+[INFO] 11:57:26:709 cliente/(18466:18466): Se ingresó por consola 'a'
+[INFO] 11:57:27:158 cliente/(18466:18466): Se ingresó por consola 'a'
+[INFO] 11:57:28:090 cliente/(18466:18466): Se ingresó por consola 'fv'
+[INFO] 11:57:28:927 cliente/(18466:18466): Se enviaron los valores al servidor
+[INFO] 11:57:28:931 cliente/(18466:18466): Finalizando modulo
+[INFO] 12:00:28:894 cliente/(18862:18862): Hola! Soy un log
+[INFO] 12:00:28:894 cliente/(18862:18862): El valor de la clave es: Llave Dactilar Wuxi
+[INFO] 12:00:28:894 cliente/(18862:18862): El valor de la IP es: 127.0.0.1
+[INFO] 12:00:28:895 cliente/(18862:18862): El valor del Puerto es: 4444
+[INFO] 12:00:28:895 cliente/(18862:18862): Se envió la clave al servidor
+[INFO] 12:00:30:178 cliente/(18862:18862): Se ingresó por consola 'A'
+[INFO] 12:00:30:631 cliente/(18862:18862): Se ingresó por consola 'B'
+[INFO] 12:00:32:774 cliente/(18862:18862): Se ingresó por consola 'C'
+[INFO] 12:00:33:102 cliente/(18862:18862): Se enviaron los valores al servidor
+[INFO] 12:00:33:103 cliente/(18862:18862): Finalizando modulo
+[INFO] 12:02:54:494 cliente/(19174:19174): Hola! Soy un log
+[INFO] 12:02:54:737 cliente/(19174:19174): El valor de la clave es: Llave Dactilar Wuxi
+[INFO] 12:02:54:755 cliente/(19174:19174): El valor de la IP es: 127.0.0.1
+[INFO] 12:02:54:755 cliente/(19174:19174): El valor del Puerto es: 4444
+[INFO] 12:02:54:809 cliente/(19174:19174): Se envió la clave al servidor
+[INFO] 12:02:57:863 cliente/(19174:19174): Se ingresó por consola 'A'
+[INFO] 12:02:58:407 cliente/(19174:19174): Se ingresó por consola 'B'
+[INFO] 12:02:59:027 cliente/(19174:19174): Se ingresó por consola 'C'
+[INFO] 12:02:59:504 cliente/(19174:19174): Se ingresó por consola 'D'
+[INFO] 12:02:59:982 cliente/(19174:19174): Se enviaron los valores al servidor
+[INFO] 12:02:59:984 cliente/(19174:19174): Finalizando modulo
+[INFO] 12:04:05:301 cliente/(19263:19263): Hola! Soy un log
+[INFO] 12:04:05:365 cliente/(19263:19263): El valor de la clave es: Llave Dactilar Wuxi
+[INFO] 12:04:05:367 cliente/(19263:19263): El valor de la IP es: 127.0.0.1
+[INFO] 12:04:05:367 cliente/(19263:19263): El valor del Puerto es: 4444
+[INFO] 12:04:05:379 cliente/(19263:19263): Se envió la clave al servidor
+[INFO] 12:04:07:273 cliente/(19263:19263): Se ingresó por consola 'asdafd'
+[INFO] 12:04:08:042 cliente/(19263:19263): Se ingresó por consola 'asd'
+[INFO] 12:04:08:514 cliente/(19263:19263): Se ingresó por consola 'asd'
+[INFO] 12:04:09:864 cliente/(19263:19263): Se ingresó por consola 'asdgbasf'
+[INFO] 12:04:10:210 cliente/(19263:19263): Se enviaron los valores al servidor
+[INFO] 12:04:10:211 cliente/(19263:19263): Finalizando modulo
+[INFO] 12:04:54:960 cliente/(19566:19566): Hola! Soy un log
+[INFO] 12:04:54:960 cliente/(19566:19566): El valor de la clave es: Llave Dactilar Wuxi
+[INFO] 12:04:54:960 cliente/(19566:19566): El valor de la IP es: 127.0.0.1
+[INFO] 12:04:54:960 cliente/(19566:19566): El valor del Puerto es: 4444
+[INFO] 12:04:54:961 cliente/(19566:19566): Se envió la clave al servidor
+[INFO] 12:04:56:465 cliente/(19566:19566): Se ingresó por consola 'asdf'
+[INFO] 12:04:57:010 cliente/(19566:19566): Se ingresó por consola 'asdf'
+[INFO] 12:04:57:482 cliente/(19566:19566): Se ingresó por consola 'asdf'
+[INFO] 12:04:58:411 cliente/(19566:19566): Se ingresó por consola 'wert'
+[INFO] 12:04:58:992 cliente/(19566:19566): Se enviaron los valores al servidor
+[INFO] 12:04:58:992 cliente/(19566:19566): Finalizando modulo

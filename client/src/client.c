@@ -46,7 +46,7 @@ int main(void)
 	//enviar CLAVE al servirdor
 	enviar_mensaje(valor, conexion);
 	log_info(logger, "Se envió la clave al servidor", puerto);
-	free(valor);
+	//free(valor);
 
 	//agregar_a_paquete(paquete,"unString",strlen("unString"));
 
@@ -90,7 +90,7 @@ void leer_consola(t_log* logger, t_paquete* paquete)
 	        leido = readline(">");
 
 	        if (strcmp(leido,"") == 0){
-	            //free(leido);
+	            free(leido);
 	            break;
 	        }
 

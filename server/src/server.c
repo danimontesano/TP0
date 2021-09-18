@@ -18,6 +18,7 @@ int main(void) {
 			lista = recibir_paquete(cliente_fd);
 			log_info(logger, "Se listan los valores recibidos");
 			list_iterate(lista, (void*) iterator);
+			list_destroy_and_destroy_elements(lista,free);
 			break;
 		case -1:
 			log_error(logger, "El cliente se desconecto. Terminando servidor");
