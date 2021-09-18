@@ -16,11 +16,11 @@ int main(void) {
 			break;
 		case PAQUETE:
 			lista = recibir_paquete(cliente_fd);
-			log_info(logger, "Me llegaron los siguientes valores:\n");
+			log_info(logger, "Se listan los valores recibidos");
 			list_iterate(lista, (void*) iterator);
 			break;
 		case -1:
-			log_error(logger, "el cliente se desconecto. Terminando servidor");
+			log_error(logger, "El cliente se desconecto. Terminando servidor");
 			return EXIT_FAILURE;
 		default:
 			log_warning(logger,
@@ -32,6 +32,6 @@ int main(void) {
 }
 
 void iterator(/*t_log* logger, */char* value) {
-	log_info(logger,"%s\n", value);
+	log_info(logger," - Valor recibido '%s'", value);
 	//printf("%s\n", value);
 }

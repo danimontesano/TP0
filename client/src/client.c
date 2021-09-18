@@ -26,18 +26,13 @@ int main(void)
 	//Loggear valor de config
 
 	valor = config_get_string_value(config, "CLAVE");
+	log_info(logger, "El valor de la clave es: %s", valor);
+
 	ip = config_get_string_value(config, "IP");
+	log_info(logger, "El valor de la IP es: %s", ip);
+
 	puerto = config_get_string_value(config, "PUERTO");
-
-	log_info(logger, "%s", valor);
-	log_info(logger, "%s", ip);
-	log_info(logger, "%s", puerto);
-
-	conexion = crear_conexion(ip, puerto);
-
-	t_paquete* paquete = crear_super_paquete();
-	leer_consola(logger, paquete);
-
+	log_info(logger, "El valor del Puerto es: %s", puerto);
 
 
 	/*---------------------------------------------------PARTE 3-------------------------------------------------------------*/
@@ -46,33 +41,34 @@ int main(void)
 
 	// Creamos una conexión hacia el servidor
 
+	conexion = crear_conexion(ip, puerto);
 
 	//enviar CLAVE al servirdor
 	enviar_mensaje(valor, conexion);
-	//free(valor);
-
-
-
+	log_info(logger, "Se envió la clave al servidor", puerto);
+	free(valor);
 
 	//agregar_a_paquete(paquete,"unString",strlen("unString"));
 
+	t_paquete* paquete = crear_super_paquete();
+	leer_consola(logger, paquete);
 	enviar_paquete(paquete, conexion);
+	log_info(logger, "Se enviaron los valores al servidor", puerto);
 	eliminar_paquete(paquete);
 
-	free(valor);
 	//paquete(conexion);
 
 	terminar_programa(conexion, logger, config);
 
 	/*---------------------------------------------------PARTE 5-------------------------------------------------------------*/
-	// Proximamente
+
 }
 
 t_log* iniciar_logger(void)
 {
 	t_log* nuevo_logger;
 
-	nuevo_logger = log_create("src/cliente.log", "cliente", 1, LOG_LEVEL_INFO);
+	nuevo_logger = log_create("/home/utnso/TP0/client/cliente.log", "cliente", 1, LOG_LEVEL_INFO);
 
 	return nuevo_logger;
 }
@@ -81,13 +77,14 @@ t_config* iniciar_config(void)
 {
 	t_config* nuevo_config;
 
-	nuevo_config = config_create("src/cliente.config");
+	nuevo_config = config_create("/home/utnso/TP0/client/cliente.config");
 
 	return nuevo_config;
 }
 
 void leer_consola(t_log* logger, t_paquete* paquete)
 {
+		printf("Ingrese valores a enviar al servidor: \n");
 	    while(1){
 	    	char* leido;
 	        leido = readline(">");
@@ -119,8 +116,11 @@ void paquete(int conexion)
 
 void terminar_programa(int conexion, t_log* logger, t_config* config)
 {
+	log_info(logger, "Finalizando modulo");
+
 	//Y por ultimo, para cerrar, hay que liberar lo que utilizamos (conexion, log y config) con las funciones de las commons y del TP mencionadas en el enunciado
 	log_destroy(logger);
 	config_destroy(config);
 	liberar_conexion(conexion);
+
 }
